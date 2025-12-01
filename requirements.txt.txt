@@ -1,4 +1,0 @@
-streamlit==1.51.0
-numpy==2.3.5
-matplotlib==3.10.7
-scikit-learn==1.7.2
